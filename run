@@ -1,0 +1,1 @@
+docker run -it --rm --name dev-environment -v /var/run/docker.sock:/var/run/docker.sock cbadenes/dev-environment
